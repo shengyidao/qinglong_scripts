@@ -9,7 +9,7 @@
 
     2024.6.30
 
-    实现 GLADOS、iKuuu yuncat 每日签到和续费
+    实现 GLADOS、iKuuu、yuncat 每日签到和续费
 
     环境变量:yuanshen_fj
 
