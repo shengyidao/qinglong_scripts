@@ -9,4 +9,4 @@ yy.py 雨云
 
 yb.py 易班
 
-plane.py 飞机 已经实现 GLADOS、iKuuu yuncat\
+plane.py 飞机 已经实现 GLADOS、iKuuu yuncat
