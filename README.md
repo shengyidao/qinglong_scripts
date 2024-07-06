@@ -8,3 +8,5 @@ mys.py 米游社
 yy.py 雨云
 
 yb.py 易班
+
+plane.py 飞机
