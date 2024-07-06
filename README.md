@@ -3,10 +3,10 @@
 
 联系方式：qq -> 2366253094
 
-mys.py 米游社
+mys.py 米游社 未实现giteest验证
 
 yy.py 雨云
 
 yb.py 易班
 
-plane.py 飞机
+plane.py 飞机 已经实现 GLADOS、iKuuu yuncat\
