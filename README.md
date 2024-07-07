@@ -3,7 +3,7 @@
 
 联系方式：qq -> 2366253094
 
-mys.py 米游社 未实现giteest验证
+mys.py 米游社 未实现giteest验证 隔两天进行检测
 
 yy.py 雨云
 
