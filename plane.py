@@ -35,6 +35,7 @@
         iKuuu 的 cookie
         yuncat 的 cookie
 
+    有不需要的机场 参数只需用""略过 例如：#""#
     格式 export yuanshen_fj=备注#Glatoken#Glacookie#iKuuu_cookie#Yuncat_cookie
 
     定时 每天9点一次
