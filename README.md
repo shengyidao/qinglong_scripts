@@ -19,3 +19,5 @@ plane.py 飞机 已经实现 GLADOS、iKuuu(暂时失效、yuncat
 
     yuncat 注册地址 (不需要飞机
     https://yun.cat/register?aff=ZLc9BNuZ
+    
+jrtt.py 今日头条
