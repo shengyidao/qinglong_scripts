@@ -10,7 +10,7 @@
 
     实现了 每日签到获取金币 种树浇水得金币 获得浇树的水滴 但未实现除虫
 
-    参赛：cookie
+    参数：cookie
 
     环境变量 export yuanshen_jrtt = 备份#cookie
 
